@@ -1,9 +1,9 @@
-# NIST Cybersecurity Framework (CSF)
+# 🛡️ NIST Cybersecurity Framework (CSF)  
 ## Risk & Asset Management Maturity Assessment
 
 ---
 
-## 📄 Executive Summary
+## 📌 Overview
 This case study evaluates an organization’s cybersecurity maturity in asset management and risk assessment. It identifies key gaps in asset visibility, classification, and governance, and proposes structured controls aligned with the **Identify** function of the NIST Cybersecurity Framework (CSF).
 
 ---
